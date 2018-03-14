@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">PTDF Quiz App</string>
+
+        <string name="question1">1. The Scottish missionary that fought and stopped the killing of twins at infancy among the Efik people in Calabar in present day Nigeria is</string>
+        <string name="question1_choice1">Mary King</string>
+        <string name="question1_choice2">Mary Shelley</string>
+        <string name="question1_choice3">Mary Slessor</string>
+
+        <string name="question2">2. Mount Everest, the highest mountain in the world, is located in </string>
+
+        <string name="question3">3.Which of these countries is the largest producer of gold in the world? </string>
+        <string name="question3_choice1">USA</string>
+        <string name="question3_choice2">Switzerland</string>
+        <string name="question3_choice3">Russia</string>
+        <string name="question3_choice4">South Africa</string>
+
+        <string name="question4">4. The tallest building in the world is how many metres tall? </string>
+
+        <string name="question5">5. Where in Nigeria would you find a town called Chokochoko ?</string>
+        <string name="question5_choice1">Plateau State</string>
+        <string name="question5_choice2">Kogi State</string>
+        <string name="question5_choice3">Kano State</string>
+
+        <string name="question6">6.The first political party formed in Nigeria is </string>
+
+        <string name="question7">7. Technology can be defined as </string>
+        <string name="question7_choice1">Science, engineering and development</string>
+        <string name="question7_choice2">Application of one’s knowledge for development</string>
+        <string name="question7_choice3">Study of the economy </string>
+        <string name="question7_choice4">Information, techniques and tools with which people exploit their environment to satisfy their needs</string>
+
+        <string name="question8">8. How many legs does a butterfly have?</string>
+
+        <string name="question9">9. Which of these is Earth’s only natural satellite ?</string>
+        <string name="question9_choice1">Moon</string>
+        <string name="question9_choice2">Star</string>
+
+        <string name="question10">10. The standard size of a football field is</string>
+
+        <string name="submit">Submit</string>
+
+
+</resources>
